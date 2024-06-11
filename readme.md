@@ -1,4 +1,3 @@
-﻿```markdown
 # Image Compression Script
 
 This bash script recursively compresses all `.JPG`, `.JPEG`, and `.PNG` images in a directory (and its subdirectories) to 80% quality using `ffmpeg`. The compressed images are saved in a specified output directory while preserving the original directory structure.
